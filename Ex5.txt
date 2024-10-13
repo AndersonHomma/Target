@@ -1,0 +1,7 @@
+Acenderia um interruptor por alguns minutos, até a lâmpada aquecer bastante;
+Apagaria este interrutor;
+Acenderia outro e deixaria aceso;
+Iria em uma sala verificaria se a lampada está acesa, apagada quente ou apagada fria;
+Se estiver apagada quente pertence ao primeiro interruptor;
+Se estiver acesa pertence a segundo interruptor;
+Se estiver apagada fria pertence ao terceiro interuptor;
